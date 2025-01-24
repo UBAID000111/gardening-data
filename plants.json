@@ -1,0 +1,276 @@
+{
+  "plants": [
+    {
+      "name": "Tomato",
+      "category": "Vegetable",
+      "image": "tomato.jpg",
+      "weather": "Hot",
+      "soil": "Loamy",
+      "land_area": "50-100 sq ft",
+      "planting_instructions": {
+        "seed": "Buy tomato seed or take from your kitchen. Wash them thoroughly and dry.",
+        "planting": "Use loamy soil, dig holes with a khurpi, and plant seeds.",
+        "watering": "Water twice a day, 200 ml each time.",
+        "care": "Keep in indirect sunlight. Use organic pesticides.",
+        "time_to_grow": "60-90 days",
+        "harvest": "Pick tomatoes when they turn red."
+      }
+    },
+    {
+      "name": "Carrot",
+      "category": "Vegetable",
+      "image": "carrot.jpg",
+      "weather": "Cold",
+      "soil": "Sandy",
+      "land_area": "30-50 sq ft",
+      "planting_instructions": {
+        "seed": "Buy carrot seeds. Ensure soil is well-drained.",
+        "planting": "Plant seeds 1/4 inch deep and cover with loose soil.",
+        "watering": "Water lightly every day.",
+        "care": "Weed regularly to avoid competition for nutrients.",
+        "time_to_grow": "70-80 days",
+        "harvest": "Harvest when roots are about 6 inches long."
+      }
+    },
+    {
+      "name": "Apple",
+      "category": "Fruit",
+      "image": "apple.jpg",
+      "weather": "Cold",
+      "soil": "Clay",
+      "land_area": "200-300 sq ft",
+      "planting_instructions": {
+        "seed": "Plant apple saplings, water well after planting.",
+        "planting": "Plant in well-drained clay soil. Ensure the site gets full sun.",
+        "watering": "Water deeply twice a week.",
+        "care": "Prune regularly for better airflow and sunlight penetration.",
+        "time_to_grow": "3-5 years to bear fruit",
+        "harvest": "Pick apples when they are firm and have rich color."
+      }
+    },
+    {
+      "name": "Spinach",
+      "category": "Vegetable",
+      "image": "spinach.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "20-30 sq ft",
+      "planting_instructions": {
+        "seed": "Buy spinach seeds. Sow them 1 inch apart.",
+        "planting": "Use loamy, well-drained soil. Water regularly.",
+        "watering": "Water deeply twice a week.",
+        "care": "Provide partial shade for cooler climates.",
+        "time_to_grow": "30-40 days",
+        "harvest": "Pick spinach leaves when mature."
+      }
+    },
+    {
+      "name": "Cabbage",
+      "category": "Vegetable",
+      "image": "cabbage.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "50-100 sq ft",
+      "planting_instructions": {
+        "seed": "Plant cabbage seeds in the spring.",
+        "planting": "Choose a sunny spot and use well-drained soil.",
+        "watering": "Water consistently but avoid over-watering.",
+        "care": "Fertilize regularly with compost.",
+        "time_to_grow": "90-120 days",
+        "harvest": "Harvest when the heads are firm."
+      }
+    },
+    {
+      "name": "Lettuce",
+      "category": "Vegetable",
+      "image": "lettuce.jpg",
+      "weather": "Moderate",
+      "soil": "Sandy",
+      "land_area": "15-30 sq ft",
+      "planting_instructions": {
+        "seed": "Buy lettuce seeds and plant in rows.",
+        "planting": "Ensure soil is sandy and well-drained.",
+        "watering": "Water regularly to keep soil moist.",
+        "care": "Thin out plants as they grow to allow space for proper development.",
+        "time_to_grow": "40-50 days",
+        "harvest": "Pick leaves when they are young and tender."
+      }
+    },
+    {
+      "name": "Banana",
+      "category": "Fruit",
+      "image": "banana.jpg",
+      "weather": "Hot",
+      "soil": "Loamy",
+      "land_area": "300-400 sq ft",
+      "planting_instructions": {
+        "seed": "Plant banana suckers from a mature banana plant.",
+        "planting": "Use well-drained loamy soil and space out plants.",
+        "watering": "Water thoroughly once a week.",
+        "care": "Provide support to growing plants and protect from strong winds.",
+        "time_to_grow": "9-12 months for fruiting",
+        "harvest": "Harvest bananas when they turn yellow."
+      }
+    },
+    {
+      "name": "Strawberry",
+      "category": "Fruit",
+      "image": "strawberry.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "20-40 sq ft",
+      "planting_instructions": {
+        "seed": "Plant strawberry runners in the spring.",
+        "planting": "Use acidic loamy soil and space plants 12-18 inches apart.",
+        "watering": "Water evenly but not too much to avoid root rot.",
+        "care": "Mulch around the plants to retain moisture and control weeds.",
+        "time_to_grow": "60-90 days",
+        "harvest": "Pick strawberries when they are fully red."
+      }
+    },
+    {
+      "name": "Orange",
+      "category": "Fruit",
+      "image": "orange.jpg",
+      "weather": "Hot",
+      "soil": "Clay",
+      "land_area": "200-300 sq ft",
+      "planting_instructions": {
+        "seed": "Plant orange saplings and water well.",
+        "planting": "Use clay soil with good drainage and ensure full sun exposure.",
+        "watering": "Water regularly, especially during dry periods.",
+        "care": "Prune regularly to remove dead wood and promote healthy growth.",
+        "time_to_grow": "3-5 years to bear fruit",
+        "harvest": "Pick oranges when they are fully ripe and slightly soft."
+      }
+    },
+    {
+      "name": "Peas",
+      "category": "Vegetable",
+      "image": "peas.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "10-20 sq ft",
+      "planting_instructions": {
+        "seed": "Plant pea seeds directly in the ground.",
+        "planting": "Use loamy soil with good drainage and full sunlight.",
+        "watering": "Water regularly but avoid soggy soil.",
+        "care": "Provide support for climbing pea vines.",
+        "time_to_grow": "60-70 days",
+        "harvest": "Harvest peas when they are firm and full."
+      }
+    },
+    {
+      "name": "Chili",
+      "category": "Vegetable",
+      "image": "chili.jpg",
+      "weather": "Hot",
+      "soil": "Loamy",
+      "land_area": "50-100 sq ft",
+      "planting_instructions": {
+        "seed": "Buy chili seeds and plant in well-drained soil.",
+        "planting": "Plant in a sunny location with loamy soil.",
+        "watering": "Water regularly but ensure proper drainage.",
+        "care": "Prune plants to encourage growth and remove dead leaves.",
+        "time_to_grow": "60-90 days",
+        "harvest": "Pick chilies when they are red and fully mature."
+      }
+    },
+    {
+      "name": "Basil",
+      "category": "Herb",
+      "image": "basil.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "10-20 sq ft",
+      "planting_instructions": {
+        "seed": "Plant basil seeds in well-drained soil.",
+        "planting": "Ensure full sun exposure and space plants apart.",
+        "watering": "Water when the soil feels dry to the touch.",
+        "care": "Prune regularly to encourage bushy growth.",
+        "time_to_grow": "30-50 days",
+        "harvest": "Harvest leaves once the plant reaches 6 inches tall."
+      }
+    },
+    {
+      "name": "Pumpkin",
+      "category": "Vegetable",
+      "image": "pumpkin.jpg",
+      "weather": "Moderate",
+      "soil": "Sandy",
+      "land_area": "100-200 sq ft",
+      "planting_instructions": {
+        "seed": "Plant pumpkin seeds directly in the soil.",
+        "planting": "Use sandy soil with ample space for vine growth.",
+        "watering": "Water deeply but infrequently.",
+        "care": "Provide support for growing pumpkins and mulch the soil.",
+        "time_to_grow": "90-120 days",
+        "harvest": "Harvest pumpkins when they turn orange and are firm."
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "category": "Vegetable",
+      "image": "bell-pepper.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "50-100 sq ft",
+      "planting_instructions": {
+        "seed": "Plant bell pepper seeds in starter pots before transferring to the ground.",
+        "planting": "Use loamy, well-drained soil and ensure full sun exposure.",
+        "watering": "Water regularly but avoid over-watering.",
+        "care": "Fertilize regularly with compost.",
+        "time_to_grow": "70-90 days",
+        "harvest": "Pick peppers when they are fully mature and colorful."
+      }
+    },
+    {
+      "name": "Rose",
+      "category": "Flower",
+      "image": "rose.jpg",
+      "weather": "Moderate",
+      "soil": "Loamy",
+      "land_area": "20-50 sq ft",
+      "planting_instructions": {
+        "seed": "Buy rose bushes or cuttings and plant in fertile soil.",
+        "planting": "Plant in a sunny location with well-drained loamy soil.",
+        "watering": "Water deeply once a week.",
+        "care": "Prune dead stems and provide support to growing roses.",
+        "time_to_grow": "2-3 months",
+        "harvest": "Cut roses when they are in full bloom."
+      }
+    },
+    {
+      "name": "Tulip",
+      "category": "Flower",
+      "image": "tulip.jpg",
+      "weather": "Cold",
+      "soil": "Sandy",
+      "land_area": "10-20 sq ft",
+      "planting_instructions": {
+        "seed": "Plant tulip bulbs in well-drained soil during the fall.",
+        "planting": "Ensure soil is loose and not waterlogged.",
+        "watering": "Water after planting and during dry periods.",
+        "care": "Remove dead flowers to encourage new blooms.",
+        "time_to_grow": "2-3 months",
+        "harvest": "Pick tulips when fully open."
+      }
+    },
+    {
+      "name": "Sunflower",
+      "category": "Flower",
+      "image": "sunflower.jpg",
+      "weather": "Hot",
+      "soil": "Sandy",
+      "land_area": "50-100 sq ft",
+      "planting_instructions": {
+        "seed": "Buy sunflower seeds and plant them directly in the soil.",
+        "planting": "Use sunny locations with loose, well-drained soil.",
+        "watering": "Water moderately but not excessively.",
+        "care": "Remove any weeds around the plant.",
+        "time_to_grow": "70-90 days",
+        "harvest": "Pick sunflowers when the seeds are ripe."
+      }
+    }
+  ]
+}
