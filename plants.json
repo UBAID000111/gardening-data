@@ -22,7 +22,7 @@
       "image": "carrot.jpg",
       "weather": "Cold",
       "soil": "Sandy",
-      "land_area": "30-50 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Buy carrot seeds. Ensure soil is well-drained.",
         "planting": "Plant seeds 1/4 inch deep and cover with loose soil.",
@@ -54,7 +54,7 @@
       "image": "spinach.jpg",
       "weather": "Moderate",
       "soil": "Loamy",
-      "land_area": "20-30 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Buy spinach seeds. Sow them 1 inch apart.",
         "planting": "Use loamy, well-drained soil. Water regularly.",
@@ -86,7 +86,7 @@
       "image": "lettuce.jpg",
       "weather": "Moderate",
       "soil": "Sandy",
-      "land_area": "15-30 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Buy lettuce seeds and plant in rows.",
         "planting": "Ensure soil is sandy and well-drained.",
@@ -118,7 +118,7 @@
       "image": "strawberry.jpg",
       "weather": "Moderate",
       "soil": "Loamy",
-      "land_area": "20-40 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Plant strawberry runners in the spring.",
         "planting": "Use acidic loamy soil and space plants 12-18 inches apart.",
@@ -150,7 +150,7 @@
       "image": "peas.jpg",
       "weather": "Moderate",
       "soil": "Loamy",
-      "land_area": "10-20 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Plant pea seeds directly in the ground.",
         "planting": "Use loamy soil with good drainage and full sunlight.",
@@ -182,7 +182,7 @@
       "image": "basil.jpg",
       "weather": "Moderate",
       "soil": "Loamy",
-      "land_area": "10-20 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Plant basil seeds in well-drained soil.",
         "planting": "Ensure full sun exposure and space plants apart.",
@@ -230,7 +230,7 @@
       "image": "rose.jpg",
       "weather": "Moderate",
       "soil": "Loamy",
-      "land_area": "20-50 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Buy rose bushes or cuttings and plant in fertile soil.",
         "planting": "Plant in a sunny location with well-drained loamy soil.",
@@ -246,7 +246,7 @@
       "image": "tulip.jpg",
       "weather": "Cold",
       "soil": "Sandy",
-      "land_area": "10-20 sq ft",
+      "land_area": "10-50 sq ft",
       "planting_instructions": {
         "seed": "Plant tulip bulbs in well-drained soil during the fall.",
         "planting": "Ensure soil is loose and not waterlogged.",
